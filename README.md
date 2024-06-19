@@ -3,3 +3,4 @@ Please tell me about your favorite YouTuber or YouTube Channel.
 (For example, Hikakin, Fischer's, etc...)
 
 ## List of YouTuber and YouTube Channel
+Mr. Beast
