@@ -16,8 +16,18 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+https://github.com/gill876/AttractingContributors-Hiking (Hiking destinations)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 
 # List of Hobby
+1. Hiking
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
