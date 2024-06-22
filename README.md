@@ -21,13 +21,5 @@ https://github.com/gill876/AttractingContributors-Hiking (Hiking destinations)
 https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 
 # List of Hobby
-1. Hiking
-2. Spectating Motorsport
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+Which city are you from.
+ Himeji
