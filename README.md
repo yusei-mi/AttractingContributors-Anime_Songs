@@ -1,5 +1,9 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+<p align="center">
+  <img src="https://github.com/polarbearpppp/AttractingContributors-Games/Gear-Rant-Game-Family-Plans-1334436001.jpg.webp" alt="Earphones" width="85%" height="85%" style="display: block; margin: 0 auto;">
+</p>
+
+# Attracting Contributors - Favorite Games !!
+I am the only who really like to play games can you guys share me your favourite game for me.
 
 # Rules
 
@@ -15,9 +19,6 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Games
+- Dota 2
+- TFT ( Team Fight tactic in lol)
