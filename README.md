@@ -24,6 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 Which city are you from.
  Falmouth - Jamaica
  Himeji
+tokyo
  Fuzhou
  Tokyo!!
  Kaohsiung/Takao
