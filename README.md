@@ -24,3 +24,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Which city are you from.
  Himeji
  Kobe
+ Yamatotakada
+ Osaka
