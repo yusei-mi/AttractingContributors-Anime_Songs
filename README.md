@@ -23,3 +23,4 @@ To complete the assignment, please do the following:
 # List of Games
 - Dota 2
 - TFT ( Team Fight tactic in lol)
+- Battle cat
