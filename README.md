@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/polarbearpppp/AttractingContributors-Games/game.png" alt='game' width="85%" height="85%" style="display: block; margin: 0 auto;">
+  <img width="770" alt="game" src="https://github.com/polarbearpppp/AttractingContributors-Games/assets/86883499/76944a0e-a15a-4b66-8dba-0f7942bf2bed" width="85%" height="85%" style="display: block; margin: 0 auto;">
 </p>
+
 
 # Attracting Contributors - Favorite Games !!
 I am the only who really like to play games can you guys share me your favourite game for me.
