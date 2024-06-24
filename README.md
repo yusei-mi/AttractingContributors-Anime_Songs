@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/polarbearpppp/AttractingContributors-Games/Gear-Rant-Game-Family-Plans-1334436001.jpg.webp" width="85%" height="85%" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/polarbearpppp/AttractingContributors-Games/game.png" width="85%" height="85%" style="display: block; margin: 0 auto;">
 </p>
 
 # Attracting Contributors - Favorite Games !!
