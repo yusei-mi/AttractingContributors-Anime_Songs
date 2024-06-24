@@ -26,6 +26,7 @@ Which city are you from.
 - Nara
  Falmouth - Jamaica
  Himeji
+ Kyotanabe
 tokyo
  Fuzhou
  Tokyo!!
