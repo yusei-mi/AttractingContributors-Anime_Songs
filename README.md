@@ -16,11 +16,21 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+https://github.com/gill876/AttractingContributors-Hiking (Hiking destinations)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 
 # List of Hobby
 Which city are you from.
+- Himeji
+- Nara
+ Falmouth - Jamaica
  Himeji
+ Kyotanabe
+tokyo
+ Fuzhou
+ Tokyo!!
+ Kaohsiung/Takao
+ Kobe
+ Yamatotakada
  Osaka
