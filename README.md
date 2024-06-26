@@ -25,3 +25,5 @@ To complete the assignment, please do the following:
 - TFT ( Team Fight tactic in lol)
 - Battle cat
 - The elder scroll V: Skyrim
+- Minecraft
+- Dota 2 (pos 1 safe line)
