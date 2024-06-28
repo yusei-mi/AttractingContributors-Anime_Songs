@@ -3,3 +3,4 @@ What is your favorite animal?
 - cat
 - monkey
 - dog
+- fox
