@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Goal - I want contributors to help me list your favorite musical instruments.
 # List of Hobby
 1. piano
+2. cello
