@@ -6,5 +6,6 @@ Which is your favorite prefecture in Japan?
 
 1. Osaka
 2. Aichi
-3. Niigata7
+3. Niigata
+4. Shimane
 5. Nara
