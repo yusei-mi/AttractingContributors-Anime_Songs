@@ -4,3 +4,4 @@ Which is your favorite prefecture in Japan?
 
 # List of Hobby
 1. Osaka
+2. Shimane
