@@ -10,3 +10,4 @@ Which is your favorite prefecture in Japan?
 4. Shimane
 5. Nara
 6. Kyoto
+7. Hyogo
