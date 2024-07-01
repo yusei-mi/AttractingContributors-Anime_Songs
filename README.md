@@ -1,5 +1,13 @@
 What is your favorite food?
--Tebasaki
-- taco 🌮
+
+- Tebasaki
+- rice omelette
 - Ramen
 - Curry and rice
+- chocolate
+- takoyaki
+- Sashimi (sliced raw fish)
+- Burger
+- carrot
+- Sushi
+
