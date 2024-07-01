@@ -3,5 +3,7 @@ Please tell me about your favorite YouTuber or YouTube Channel.
 (For example, Hikakin, Fischer's, etc...)
 
 ## List of YouTuber and YouTube Channel
-
-SikinTV
+SikinTV</br>
+科学はすべてを解決する! [くられ with 薬理凶室](https://www.youtube.com/@krr)</br>
+enna</br>
+Mr. Beast
