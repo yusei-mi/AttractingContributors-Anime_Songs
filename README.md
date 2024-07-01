@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Your selection song in 2024
 
 Music is one thing that could touch everyone, link everyone altogether, I want to collect all of your best selections for 2024, let's enjoy the music together~
+1. Zankyosanka
