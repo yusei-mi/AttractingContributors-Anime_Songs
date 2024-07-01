@@ -3,5 +3,7 @@ What is your favorite anime song? <br>
 I am happy if you add the name of the anime behind it!!!<br>
 
 # List of anime songs
-- Gurenge (Demon Slayer) <br>
+- Gurenge (Demon Slayer)
 - snow tears (Hakaba kitaro)
+- Yuusya (Frieren: Beyond journey's End) 
+
