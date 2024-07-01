@@ -29,3 +29,4 @@ Goal - I want contributors to help me list your favorite musical instruments.
 4. erhu (Chinese 2-string fiddle)
 5. keyboard
 6. electric bass
+7. violin
