@@ -1,5 +1,7 @@
 What is your favorite food?
--Tebasaki
-- taco 🌮
+
+- Tebasaki
+- rice omelette
 - Ramen
 - carrot
+- Sushi
