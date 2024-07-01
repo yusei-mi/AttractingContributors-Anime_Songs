@@ -5,5 +5,6 @@ I am happy if you add the name of the anime behind it!!!<br>
 # List of anime songs
 - Gurenge (Demon Slayer)
 - snow tears (Hakaba kitaro)
-- Yuusya (Frieren: Beyond journey's End) 
+- Yuusya (Frieren: Beyond journey's End)
+- We Are! (One Piece)
 
