@@ -30,3 +30,4 @@ Goal - I want contributors to help me list your favorite musical instruments.
 5. keyboard
 6. electric bass
 7. violin
+8. harmonium
