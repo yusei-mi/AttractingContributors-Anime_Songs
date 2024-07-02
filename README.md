@@ -22,7 +22,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # My project (musical instruments - collection)
 Goal - I want contributors to help me list your favorite musical instruments.
-# List of Hobby
+# List of Musical Instruments
 1. piano
 2. cello
 3. Guitar
