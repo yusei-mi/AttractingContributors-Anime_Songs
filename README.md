@@ -30,3 +30,5 @@ To complete the assignment, please do the following:
 - Minecraft
 - Dota 2 (pos 1 safe line)
 - DARK SOULS III
+- MARIO KART Series
+- Honkai:Star Rail
