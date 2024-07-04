@@ -29,6 +29,7 @@ To complete the assignment, please do the following:
 - The elder scroll V: Skyrim
 - Minecraft
 - Dota 2 (pos 1 safe line)
+- Danganronpa
 - PUBG
 - Zelda
 - DARK SOULS III
