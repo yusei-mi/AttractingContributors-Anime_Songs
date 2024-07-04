@@ -29,6 +29,8 @@ To complete the assignment, please do the following:
 - The elder scroll V: Skyrim
 - Minecraft
 - Dota 2 (pos 1 safe line)
+- Zelda
 - DARK SOULS III
 - MARIO KART Series
 - Honkai:Star Rail
+
