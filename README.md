@@ -10,4 +10,4 @@ What is your favorite food?
 - Burger
 - carrot
 - Sushi
-
+- 白米
