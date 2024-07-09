@@ -11,4 +11,5 @@ Which is your favorite prefecture in Japan?
 5. Nara
 6. Kyoto
 7. Hyogo
-8. Tokyo
+8. Fukui
+9. Tokyo
