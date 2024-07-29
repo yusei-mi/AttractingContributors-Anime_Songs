@@ -24,13 +24,14 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 Which city are you from.
 - Himeji
 - Nara
- Falmouth - Jamaica
- Himeji
- Kyotanabe
-tokyo
- Fuzhou
- Tokyo!!
- Kaohsiung/Takao
- Kobe
- Yamatotakada
- Osaka
+- Falmouth
+- Jamaica
+- Himeji
+- Kyotanabe
+- tokyo
+- Fuzhou
+- Tokyo!!
+- Kaohsiung/Takao
+- Kobe
+- Yamatotakada
+- Osaka
