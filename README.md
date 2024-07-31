@@ -14,4 +14,6 @@ Which is your favorite prefecture in Japan?
 8. Fukui
 9. Tokyo
 10. Nagano
-11. Akita
+12. Akita
+13. Wakayama
+14. Gifu
