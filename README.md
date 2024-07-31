@@ -15,3 +15,4 @@ Which is your favorite prefecture in Japan?
 9. Tokyo
 10. Nagano
 11. Wakayama
+12. Gifu
