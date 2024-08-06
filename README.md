@@ -17,4 +17,5 @@ Which is your favorite prefecture in Japan?
 12. Akita
 13. Wakayama
 14. Gifu
-15. Okinawa
+15. Oita
+16. Okinawa
