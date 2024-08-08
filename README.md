@@ -8,4 +8,6 @@ I am happy if you add the name of the anime behind it!!!<br>
 - Yuusya (Frieren: Beyond journey's End)
 - We Are! (One Piece)
 - Sincerely (Violet-evergarden)
+- 詠人
+
 
