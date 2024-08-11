@@ -36,3 +36,4 @@ To complete the assignment, please do the following:
 - MARIO KART Series
 - Honkai:Star Rail
 - Monser Hounter
+- VALORANT
