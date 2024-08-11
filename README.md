@@ -39,4 +39,5 @@ you can write down the place and foods of it.
 | Gusto | chain | japanese | Extensive breakfast menu and seasonal specials |
 | LIGHT UP COFFEE | Tokyo | cafe | My favorite coffee shop |
 | Jantetsu | Ikoma | Ramen | Jiro style ramen |
+| Torikizoku | chain | Yakitori | I could eat this forever! |
 
