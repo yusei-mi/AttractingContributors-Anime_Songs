@@ -5,6 +5,7 @@ What is your favorite animal?
 - dog
 - fox
 - caw
+- Tiger
 - hamster
 - panda
 - snake
