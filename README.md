@@ -14,3 +14,4 @@ What is your favorite animal?
 - カバさん
 - penguin
 - ピカチュウ
+- Lion
