@@ -5,6 +5,7 @@ What is your favorite animal?
 - dog
 - fox
 - caw
+- snake
 - rabbit
 - カバさん
 - penguin
