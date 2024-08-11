@@ -5,6 +5,9 @@ What is your favorite animal?
 - dog
 - fox
 - caw
+- Eagle-Buzzard
+- Tiger
+- hamster
 - panda
 - snake
 - rabbit
