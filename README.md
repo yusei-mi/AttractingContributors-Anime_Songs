@@ -12,3 +12,4 @@ What is your favorite food?
 - Sushi
 - 白米
 - meat
+- Hamburger steak
