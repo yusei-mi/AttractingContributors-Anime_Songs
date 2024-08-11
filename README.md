@@ -13,3 +13,4 @@ What is your favorite animal?
 - rabbit
 - カバさん
 - penguin
+- ピカチュウ
