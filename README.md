@@ -6,3 +6,5 @@ What is your favorite animal?
 - fox
 - caw
 - rabbit
+- カバさん
+- penguin
