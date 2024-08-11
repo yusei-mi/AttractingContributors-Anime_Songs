@@ -35,3 +35,4 @@ Which city are you from.
 - Kobe
 - Yamatotakada
 - Osaka
+- Saga
